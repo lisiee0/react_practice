@@ -1,0 +1,3 @@
+[submodule "practice02/pokemon"]
+	path = practice02/pokemon
+	url = https://github.com/lisiee0/react_practice.git
